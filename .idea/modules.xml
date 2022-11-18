@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_Overriding/10_Overriding.iml" filepath="$PROJECT_DIR$/10_Overriding/10_Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11AbstractClass/11AbstractClass.iml" filepath="$PROJECT_DIR$/11AbstractClass/11AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12AbstractExample/12AbstractExample.iml" filepath="$PROJECT_DIR$/12AbstractExample/12AbstractExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13interfaces/13interfaces.iml" filepath="$PROJECT_DIR$/13interfaces/13interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14interfaceDemo/14interfaceDemo.iml" filepath="$PROJECT_DIR$/14interfaceDemo/14interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15staticDemo/15staticDemo.iml" filepath="$PROJECT_DIR$/15staticDemo/15staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16packagesDemo/16packagesDemo.iml" filepath="$PROJECT_DIR$/16packagesDemo/16packagesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17arrayListDemoCollectionsStudy/17arrayListDemoCollectionsStudy.iml" filepath="$PROJECT_DIR$/17arrayListDemoCollectionsStudy/17arrayListDemoCollectionsStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18arrayListTypeCollectionStudy/18arrayListTypeCollectionStudy.iml" filepath="$PROJECT_DIR$/18arrayListTypeCollectionStudy/18arrayListTypeCollectionStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19arrayListWithClassCollectionsStudy/19arrayListWithClassCollectionsStudy.iml" filepath="$PROJECT_DIR$/19arrayListWithClassCollectionsStudy/19arrayListWithClassCollectionsStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1Methods/1Methods.iml" filepath="$PROJECT_DIR$/1Methods/1Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20hashmapping/20hashmapping.iml" filepath="$PROJECT_DIR$/20hashmapping/20hashmapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21exceptionHandling/21exceptionHandling.iml" filepath="$PROJECT_DIR$/21exceptionHandling/21exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22exceptionHandlingExampleReadingFile/22exceptionHandlingExampleReadingFile.iml" filepath="$PROJECT_DIR$/22exceptionHandlingExampleReadingFile/22exceptionHandlingExampleReadingFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23exceptionHandlingThrowExample/23exceptionHandlingThrowExample.iml" filepath="$PROJECT_DIR$/23exceptionHandlingThrowExample/23exceptionHandlingThrowExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24workingWithFiles/24workingWithFiles.iml" filepath="$PROJECT_DIR$/24workingWithFiles/24workingWithFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25generics/25generics.iml" filepath="$PROJECT_DIR$/25generics/25generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26genericsExample/26genericsExample.iml" filepath="$PROJECT_DIR$/26genericsExample/26genericsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27Threading/27Threading.iml" filepath="$PROJECT_DIR$/27Threading/27Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28JdbcInfo/28JdbcInfo.iml" filepath="$PROJECT_DIR$/28JdbcInfo/28JdbcInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29firstSwingDemo/29firstSwingDemo.iml" filepath="$PROJECT_DIR$/29firstSwingDemo/29firstSwingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2Methods/2Methods.iml" filepath="$PROJECT_DIR$/2Methods/2Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3Classes/3Classes.iml" filepath="$PROJECT_DIR$/3Classes/3Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4ClassExample/4ClassExample.iml" filepath="$PROJECT_DIR$/4ClassExample/4ClassExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5ClassWithAttributes/5ClassWithAttributes.iml" filepath="$PROJECT_DIR$/5ClassWithAttributes/5ClassWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6Constructor/6Constructor.iml" filepath="$PROJECT_DIR$/6Constructor/6Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7inheritance/7inheritance.iml" filepath="$PROJECT_DIR$/7inheritance/7inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8inheritanceExample/8inheritanceExample.iml" filepath="$PROJECT_DIR$/8inheritanceExample/8inheritanceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9polymorphism/9polymorphism.iml" filepath="$PROJECT_DIR$/9polymorphism/9polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intelij Idea Projects.iml" filepath="$PROJECT_DIR$/.idea/Intelij Idea Projects.iml" />
+    </modules>
+  </component>
+</project>
